@@ -1,1 +1,1 @@
-# AI-Study-planner-
+# AI-Study-plan
